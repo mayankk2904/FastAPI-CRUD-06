@@ -4,7 +4,7 @@ A simple and scalable **User Management REST API** built using **FastAPI** and *
 
 ---
 
-## 🚀 Features
+## Features
 
 - Create a single user
 - Create multiple users (bulk insert)
@@ -17,7 +17,7 @@ A simple and scalable **User Management REST API** built using **FastAPI** and *
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Backend**: FastAPI
 - **Database**: MongoDB (Local)
